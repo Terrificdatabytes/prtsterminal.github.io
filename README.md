@@ -8,21 +8,19 @@ What is Turbo C++?
 
 System Requirements
 ====================
-- Anything that runs Linux should do as long as it has a display, keyboard and mouse :P
-- Latest version of DOSBox Emulator should be installed via your distro's package manager, Ubuntu/Mint users can install it by typing ```sudo apt install dosbox``` in the terminal.
-
-Download and Instructions
-=========================
-- Download latest version of TurboCPP from [here](https://github.com/AvinashReddy3108/TurboCPP4Linux/releases/latest)
-- Extract the zip file anywhere you like
-- Open a terminal in that folder and type `./TURBOCPP` to open TurboC++ IDE (make sure `chmod +x` is given to it or else it won't run)
+- Nothing, as long as it has a keyboard and mouse
 
 
+State
+=====
+- WIP/POC
 
 Credits
 =======
-- Huge thanks to [@vineetchoudhary](https://github.com/vineetchoudhary) for the TurboCPP files.
+- Huge thanks to [@vineetchoudhary](https://github.com/vineetchoudhary) for the TurboCPP files and  @[@AvinashReddy3108](https://github.com/AvinashReddy3108) for fixing the paths issue.
+- Based on the [JS Dos Project](https://js-dos.com), built using their Web Builder
 
 Issues ?
 ========
-Report them [here](https://github.com/AvinashReddy3108/TurboCPP4Linux/issues)
+Quotes not working
+Report them [here](https://github.com/sounddrill31/TurboCPP-Web/issues)
