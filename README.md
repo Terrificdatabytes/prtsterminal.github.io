@@ -8,12 +8,13 @@ What is Turbo C++?
 
 System Requirements
 ====================
-- Nothing, as long as it has a keyboard and mouse
+- A modern-ish browser with Javascript and WebAssembly enabled
 
 
 State
 =====
 - WIP/POC
+- [Demo](https://hole.undo.it/dos)
 
 Credits
 =======
