@@ -14,11 +14,11 @@ System Requirements
 State
 =====
 - WIP/POC
-- [Demo](https://hole.undo.it/dos)
+- [Demo](https://sounddrill31.github.io/TurboCPP-Web)
 
 Credits
 =======
-- Huge thanks to [@vineetchoudhary](https://github.com/vineetchoudhary) for the TurboCPP files and  @[@AvinashReddy3108](https://github.com/AvinashReddy3108) for fixing the paths issue.
+- Huge thanks to [@vineetchoudhary](https://github.com/vineetchoudhary) for the TurboCPP files and  [@AvinashReddy3108](https://github.com/AvinashReddy3108) for fixing the paths issue.
 - Based on the [JS Dos Project](https://js-dos.com), built using their Web Builder
 
 Issues ?
